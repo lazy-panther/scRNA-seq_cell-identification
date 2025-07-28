@@ -1,6 +1,3 @@
-# scRNA-seq_cell-identification
-involves the analysis of single-cell RNA sequencing (scRNA-seq) data from immune cells using the Scanpy Python package. After preprocessing and dimensionality reduction, unsupervised clustering was performed to identify distinct immune cell subpopulations. Marker genes were used to annotate clusters into biologically relevant cell types including mature and immature NKT cells, NK cells, γδ T cells, CD8 T cells, macrophages, double-negative T cells, and cycling T cells. The results are visualized using UMAPs and cluster-specific gene expression plots.
-
 # Single-cell RNA-seq Analysis of Immune Cells
 
 This repository contains the code and visualizations from my analysis of scRNA-seq data, where I focused on identifying distinct immune cell types—especially different subsets of NKT and T cells.
